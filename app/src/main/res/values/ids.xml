@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="entrada" type="id" />
+    <item name="salida" type="id" />
+    <item name="progressBar1" type="id" />
+</resources>
